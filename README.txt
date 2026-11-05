@@ -1,6 +1,9 @@
 Flippervice
 
-Recreación del Digivice D2 V1 de Bandai para Flipper Zero,
+ 
+
+Recreación del Digivice D2 V1 de Bandai para Flipper Zero.
+
 Beta 1.0 · Autor: Syzygy_e
 
 Qué incluye
