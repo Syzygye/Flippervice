@@ -1,7 +1,7 @@
 Flippervice
 
-![Captura 1 de Flippervice](https://i.ibb.co/Lhc17y63/1.png)
-![Captura 3 de Flippervice](https://i.ibb.co/JWXK6NDJ/3.png)
+
+
 Recreación del Digivice D2 V1 de Bandai para Flipper Zero.
 
 Beta 1.0 · Autor: Syzygy_e
