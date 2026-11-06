@@ -1,30 +1,23 @@
 Flippervice
 
-# Flippervice
 
-![Captura 1](./1.png)
-![Captura 3](./3.png)
+Digivice D2 V1 de Bandai para Flipper Zero
 
-Recreación del Digivice D2 V1 de Bandai para Flipper Zero.
 
-Recreación del Digivice D2 V1 de Bandai para Flipper Zero.
+Qué incluye:
 
-Beta 1.0 · Autor: Syzygy_e
+-Siete áreas, combates, digievoluciones y rescate de compañeros.
 
-Qué incluye
+-Minijuegos Slot y Card, gráficos LCD y sonido.
 
-Siete áreas, combates, digievoluciones y rescate de compañeros.
-
-Minijuegos Slot y Card, gráficos LCD y sonido.
-
-Batallas VS entre dos Flippers cercanos por Sub-GHz.
+-Batallas VS entre dos Flippers cercanos por Sub-GHz.
 
 Instalación:
 
-Copia Flippervice.fap a /ext/apps/Games/ en la microSD. La partida se guarda en /ext/apps_data/Flippervice/save.bin.
+-Copia Flippervice.fap a /ext/apps/Games/ en la microSD. La partida se guarda en /ext/apps_data/Flippervice/save.bin.
 
 Controles:
 
-Izquierda acepta, Arriba selecciona, Abajo cancela, OK simula pasos y Derecha abre Opciones.
+-Izquierda acepta, Arriba selecciona, Abajo cancela, OK simula pasos y Derecha abre Opciones.
 
 Para jugar en VS, abre Connect en ambos Flippers. Cuando se detecten y se apague el sonido de búsqueda, pulsa Izquierda en uno de ellos.
